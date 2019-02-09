@@ -16,9 +16,10 @@ Basic Machine Learning Algorithms
 
 2. Unsupervised learning:
 ---------------------------------
-- Apriori
 
 - K-means
+
+- Apriori
 
 - PCA
 
