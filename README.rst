@@ -1,5 +1,5 @@
-Basic Machine Learning Algorithms
-=======================================
+Basic Machine Learning and Deep Learning Algorithms
+=====================================================
 
 - Linear Regression
 
@@ -10,6 +10,8 @@ Basic Machine Learning Algorithms
 - Decision Tree
 
 - Random Forest
+
+- Extreme Gradient Boosting (XGB)
 
 - Support Vector Machine (SVM)
 
@@ -22,5 +24,12 @@ Basic Machine Learning Algorithms
 - Apriori
 
 - PCA
+
+- Multi-Layer Perceptrons (MLP): Classification and Regression
+
+- Convolutional Neural Network (CNN)
+
+- Recurrent Neural Network (RNN)
+
 
 
