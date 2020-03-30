@@ -15,13 +15,9 @@ Basic Machine Learning and Deep Learning Algorithms
 
 - Support Vector Machine (SVM)
 
-- Classification and Regression Trees (CART) 
-
 - Naïve Bayes
 
 - k-nearest neighbours (KNN)
-
-- Apriori
 
 - PCA
 
@@ -30,6 +26,11 @@ Basic Machine Learning and Deep Learning Algorithms
 - Convolutional Neural Network (CNN)
 
 - Recurrent Neural Network (RNN)
+
+- Autoencoder
+
+- Generative Adversarial Networks
+
 
 
 
