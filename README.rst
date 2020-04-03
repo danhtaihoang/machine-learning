@@ -31,6 +31,10 @@ Basic Machine Learning and Deep Learning Algorithms
 
 - Generative Adversarial Networks
 
+- Transfer Learning
+
+- One-shot Learning
+
 
 
 
